@@ -13,4 +13,5 @@ Repository URL: https://155-PC/svn/Repo
 
 Configured repository permissions:
 - Everyone (Read / Write)
+Am  mai adaugat ceva ca sa pot face commit
 
