@@ -1,0 +1,16 @@
+Data Source=176.223.220.134,1533;Initial Catalog=bombardieri;
+Persist Security Info=True;User ID=bomba;
+
+
+ https://155-PC/svn/RepoForProject/
+
+
+Repository Type: FSFS
+
+Repository Name: Repo
+
+Repository URL: https://155-PC/svn/Repo
+
+Configured repository permissions:
+- Everyone (Read / Write)
+
